@@ -1,0 +1,9 @@
+## Dependencies
+- requests
+- pandas
+- matplotlib
+- seaborn
+
+- You can install dependencies via:
+pip install requests pandas matplotlib seaborn
+
