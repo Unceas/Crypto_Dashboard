@@ -1,3 +1,15 @@
+Name: Ayush Kushwaha
+
+Company: CODTECH IT SOLUTIONS
+
+Intern ID: CT06DG335
+
+Domain: Python Programming
+
+Duration: 6 weeks
+
+Task1: 
+
 # 📈 Crypto Dashboard
 
 This project is a simple Python-based dashboard that fetches and visualizes live cryptocurrency market data using the [CoinGecko API](https://www.coingecko.com/en/api). It was developed as part of my internship work.
